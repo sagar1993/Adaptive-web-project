@@ -1,1 +1,0 @@
-# angular-user-activity-tracking-stackoverflow
